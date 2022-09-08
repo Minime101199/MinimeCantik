@@ -444,8 +444,8 @@ class Main:
 			
     
 	def old(self):
-		x = 1111111
-		xx = 9999999
+		x = 111111
+		xx = 999999
 		idx = "1" 
 		os.system('clear');print(logo)
 		limit = int(input(" \n\033[0;73m[+]\033[0;95m FACEBOOK ACCOUNT CRACKER - LIMIT 100,000: "))
@@ -871,8 +871,8 @@ class Main:
 		self.loop +=1
 
 	def old2(self):
-		x = 1111111
-		xx = 9999999
+		x = 111111
+		xx = 999999
 		idx = "1" 
 		os.system('clear');print(logo)
 		limit = int(input("\n \033[0;95m[+]\033[0;93m FB ACCOUNT CRACKER - LIMIT 100,000: "))
